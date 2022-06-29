@@ -1,0 +1,10 @@
+@@ -26,7 +26,7 @@ could
+it
+its
+know
+last
+let
+life
+like
+little
+long
